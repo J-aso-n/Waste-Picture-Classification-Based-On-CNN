@@ -7,8 +7,10 @@
 
 本训练使用tensorflow库，以下是各文件内容：
 
-model.CNN：分类模型，包含CNN卷积模型
+model_CNN.py：分类模型，包含CNN卷积模型
 
-data_prepare_new_CNN：数据处理模型
+data_prepare_new_CNN.py：数据处理模型
 
-main.CNN：mian函数
+main_CNN.py：mian函数
+
+运行：py main_CNN.py
